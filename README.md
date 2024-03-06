@@ -5,9 +5,10 @@
 <a href="https://github.com/rxodrigues/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rxodrigues&show_icons=true&theme=merko" />
 </a>
-<a href="https://github.com/rxodrigues/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxodrigues&hide_progress=true" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rxodrigues&layout=compact&langs_count=8&card_width=320" />
 </a>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Leo-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
