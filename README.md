@@ -3,10 +3,13 @@
 - 💻 Software Developer
 - 👨🏻‍💻 Analise de Desenvolvimento de sistemas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rxodrigues&show_icons=true&theme=merko)
+<a href="https://github.com/rxodrigues/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rxodrigues&show_icons=true&theme=merko" />
+</a>
+<a href="https://github.com/rxodrigues/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxodrigues&hide_progress=true" />
+</a>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rxodrigues&hide_progress=true)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
