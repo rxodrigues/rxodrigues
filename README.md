@@ -1,6 +1,6 @@
 ## Hello World! Eu sou o Leonardo Rodrigues 🌐
 
-- 💻 Software Developer
+- 💻 Desenvolvedor | Python | JavaScript | Node.js | Django | MySQL | Git
 - 👨🏻‍💻 Analise e Desenvolvimento de sistemas
 <a href="https://github.com/rxodrigues/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rxodrigues&show_icons=true&theme=merko" />
