@@ -27,17 +27,6 @@ I'm Leonardo Rodrigues, I'm 22 years old and I live in Osasco, São Paulo. Study
 👨🏻‍💻 Analise e Desenvolvimento de sistemas / Analysis and systems development
 
 💻 Software Developer | Python | JavaScript | Node.js | Django | MySQL | Git
-
-
-
-## 📧 Links 
-
-📧 E-mail: leonardorf.contato@outlook.com
-
-🧑🏻‍💻 Linkedin: https://www.linkedin.com/in/rxodrigues/
-
-📱 Dev.to: https://dev.to/rxodrigues
-
  
 <a href="https://github.com/rxodrigues/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rxodrigues&show_icons=true&theme=merko" />
